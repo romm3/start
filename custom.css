@@ -1,0 +1,157 @@
+.alignright2
+{
+	border: solid 10px #ffffff;
+	box-shadow: 1px 1px 3px #777777;
+	float: right;
+	margin: 20px 0 20px 20px;
+}
+.single-post .post-content blockquote a
+{
+	color: #007bff;
+	font-weight: 700;
+	text-decoration: none;
+}
+td
+{
+	width: 209px;
+}
+.thumb-wrap
+{
+	height: 0;
+	overflow: hidden;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	position: relative;
+}
+.thumb-wrap iframe
+{
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+.ymaps-2-1-65-inner-panes, .ymaps-2-1-65-outer-panes
+{
+	border: 1px solid #e2e4e7;
+	border-radius: 10px;
+}
+.ymaps-2-1-65-map ymaps
+{
+	border-radius: 10px;
+}
+.woocommerce-products .product .info .store-availability .dropdown-menu
+{
+	font-weight: 400;
+}
+.bg-gray p
+{
+	color: #232e3d;
+}
+.woocommerce-products .product .thumb .photo-customers>li
+{
+	opacity: .5;
+}
+.widget_custom_html
+{
+	padding: 15px 0 0 0 !important;
+}
+.phone a
+{
+	color: #ff4548;
+}
+.email a
+{
+	color: #ff4548;
+}
+.middle-head .site-account .text
+{
+	line-height: 1.4;
+}
+.about-text
+{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+}
+.footer__copyright p
+{
+	margin-bottom: 0px;
+}
+blockquote
+{
+	border-left: #ff4548 solid 5px;
+	display: block;
+	font-style: italic;
+	margin-bottom: 1rem;
+	margin-top: 1rem;
+	padding-left: 2rem;
+}
+.colorgreen
+{
+	color: green;
+}
+.term-description li
+{
+	color: #535b66 !important;
+	font-size: 1rem;
+	line-height: 26px;
+}
+.page .post-content blockquote, .single-post .post-content blockquote
+{
+	font-size: 18px;
+}
+.nav-head
+{
+	background-color: #19233e;
+}
+.mini-cart .count
+{
+	background-color: #fff !important;
+	color: #19233e !important;
+}
+.mini-cart .text
+{
+	color: #19233e !important;
+	font-weight: 700 !important;
+	margin-top: 3px !important;
+}
+.empty-cart .text
+{
+	color: #19233e !important;
+	font-weight: 700 !important;
+	margin-top: 3px !important;
+}
+
+.top-head__branches>span
+{
+	font-size: 14px;
+}
+.catalog-menu ul .current-menu-ancestor .sub-menu>li>a:hover
+{
+	color: red;
+}
+.catalog-menu ul .open .sub-menu .sub-menu>li>a:hover
+{
+	color: red;
+}
+.catalog-menu>ul>li.open>.sub-menu>li>a:hover
+{
+	color: red;
+}
+.catalog-menu>ul>li>a:hover
+{
+	color: red;
+}
+.catalog-menu ul .current-menu-item .sub-menu .sub-menu>li>a:hover
+{
+	color: red;
+}
+.catalog-menu>ul>li.current-menu-item>.sub-menu>li>a:hover
+{
+	color: red;
+}
+.catalog-menu>ul>li.current-menu-ancestor>.sub-menu>li.current-menu-item>.sub-menu>li>a:hover
+{
+	color: red;
+}
